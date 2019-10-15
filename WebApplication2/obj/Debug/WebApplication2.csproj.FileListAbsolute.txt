@@ -1,0 +1,2 @@
+D:\GitDevOpsProjects\devops1240\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+D:\GitDevOpsProjects\devops1240\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
